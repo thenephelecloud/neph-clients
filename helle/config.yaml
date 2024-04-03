@@ -4,7 +4,7 @@ CONFIG_NAME: 'nephele'
 
 # Genesis
 # ---------------------------------------------------------------
-MIN_GENESIS_ACTIVE_VALIDATOR_COUNT: 6  # TBD
+MIN_GENESIS_ACTIVE_VALIDATOR_COUNT: 2  # TBD
 # Example date for illustration, replace with actual genesis time
 MIN_GENESIS_TIME: 1655647200  # Keep the original value for example purposes
 GENESIS_FORK_VERSION: 0x90000069  # Keep original as a placeholder
